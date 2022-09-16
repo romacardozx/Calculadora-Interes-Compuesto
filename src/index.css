@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+html * {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+}
+
